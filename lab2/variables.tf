@@ -1,0 +1,11 @@
+variable "aws_vpc" {}
+variable "cidr_public_subnet" {}
+variable "cidr_block_route" {}
+variable "cidr_private_subnet" {}
+variable "ec2_instance_type" {}
+variable "ec2_ami" {}
+variable "availability_zone" {}
+variable "region" {}
+variable "domain" {}
+variable "protocol" {}
+variable "port" {}
